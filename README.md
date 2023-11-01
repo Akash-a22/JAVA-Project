@@ -1,6 +1,6 @@
 # JAVA-project-Task-MangSys
 
-Project - (Task Management System \n
+Project - (Task Management System 
   Technology user-> Java , Hibernate ,Servlet ,JSP, HTML ,CSS,, Postgresql 
   Description    -> Manager and Employee can login 
                     Manager can create Task (CRUD), create employee (CRUD), Logout
